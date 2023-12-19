@@ -1,6 +1,4 @@
-# Detailed Code Explanation
-
-Below is a detailed code explanation
+## Detailed Code Explanation
 
 ### Importing Libraries
 

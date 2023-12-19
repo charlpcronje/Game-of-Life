@@ -1,6 +1,6 @@
 # Detailed Code Explanation
 
-Below is a detailed code explanation
+
 
 ### Importing Libraries
 
